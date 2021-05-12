@@ -1,4 +1,4 @@
 <div>
-  <p style="size:20px">Лабораторная работа №5</p>
+  <h1>Лабораторная работа №5</h1>
   <a href="https://GrazZzys.github.io"><img src="lol.png"></img></a>
 <div>
