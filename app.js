@@ -35,7 +35,7 @@ particlesJS('particles-js',
         "nb_sides": 5
       },
       "image": {
-        "src": "img/lol.png",
+        "src": "lol.png",
         "width": 260,
         "height": 260
       }
