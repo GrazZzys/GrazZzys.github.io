@@ -1,2 +1,2 @@
-<a href="https://GrazZzys.github.io"><img href="lol.png"></img></a>
+<a href="https://GrazZzys.github.io"><img src="lol.png"></img></a>
 
